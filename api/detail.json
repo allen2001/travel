@@ -1,0 +1,65 @@
+{
+  "ret": true,
+  "data": {
+    "detailName": "洪崖洞",
+    "sightName": "洪崖洞(AAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1409/12/ed83b9bb54ccc7ff1f0989a7ebc2e312.jpg_r_800x800_98eb29e5.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1409/12/ed83b9bb54ccc7ff1f0989a7ebc2e312.jpg_r_800x800_98eb29e5.jpg", "http://img1.qunarzz.com/sight/p0/201305/31/a8a9e7e2f0316355c8d65eac.jpg_r_800x800_a1177fcd.jpg"],
+    "categoryList": [
+                      {
+                          "id": "01", 
+                          "title": "成人票", 
+                          "children": [
+                              {
+                                  "id": "011", 
+                                  "title": "【提前一天可预订】欢乐谷全日成人票"
+                              }, 
+                              {
+                                  "id": "012", 
+                                  "title": "欢乐谷成人票", 
+                                  "children": [
+                                      {
+                                          "id": "0121", 
+                                          "title": "欢乐谷成人票-白天"
+                                      }, 
+                                      {
+                                          "id": "0122", 
+                                          "title": "欢乐谷成人票-夜场"
+                                      }
+                                  ]
+                              }, 
+                              {
+                                  "id": "013", 
+                                  "title": "重庆欢乐谷夜场/白天特惠票多种选择+无需取票+身份证入园"
+                              }
+                          ]
+                      }, 
+                      {
+                          "id": "02", 
+                          "title": "学生票", 
+                          "children": [
+                              {
+                                  "id": "021", 
+                                  "title": "【提前一天预订】欢乐谷学生票"
+                              }, 
+                              {
+                                  "id": "022", 
+                                  "title": "【提前一天预订】重庆欢乐谷大学生票 刷身份证入园*"
+                              }, 
+                              {
+                                  "id": "023", 
+                                  "title": "【电子票】欢乐谷学生票（刷身份证入园）"
+                              }
+                          ]
+                      }, 
+                      {
+                          "id": "03", 
+                          "title": "儿童票"
+                      }, 
+                      {
+                          "id": "04", 
+                          "title": "老人票"
+                      }
+                  ]
+  }
+}
